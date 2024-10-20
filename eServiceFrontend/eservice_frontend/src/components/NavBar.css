@@ -1,0 +1,18 @@
+.bg-bcolor {
+    background-color: #d76721; 
+    color: white; 
+  }
+  
+  .nav-link{
+    color: white;
+  }
+
+.NavText{
+  color:#d76721;
+  /* text-shadow: 2px 2px; */
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 50px;
+}
+  

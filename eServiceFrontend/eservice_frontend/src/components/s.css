@@ -1,0 +1,66 @@
+
+  /* footer section */
+  .contact {
+    width: 250px;
+    line-height: 2rem;
+  }
+  
+  /* footer icons */
+  .visa {
+    width: 5%;
+    height: 5%;
+  }
+  .master-card {
+    width: 5%;
+    height: 4%;
+  }
+  
+  .row {
+    padding: 3% 6% 0%;
+  }
+  .row1 {
+    padding: 0% 7%;
+  }
+  
+  .card {
+    padding-right: 5%;
+    color: white;
+  }
+  .card-image {
+    padding-right: 0px;
+    width: 300px;
+    height: 100px;
+    padding-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+  
+  /* footer icons */
+  .visa {
+    width: 100px;
+    height: 100px;
+  }
+  .master-card {
+    width: 80px;
+    height: 60px;
+    margin-bottom: 20px;
+  }
+  /* social media section */
+  
+  .social-items {
+    padding-left: 60px;
+  }
+  
+  .icon {
+    width: 50px;
+    height: 50px;
+    padding-left: 200px;
+  }
+  
+  .text {
+    text-align: center;
+    background-color: #253b6e;
+    color: white;
+  }
+  
